@@ -1,0 +1,2 @@
+#!/bin /bash
+echo {a..0}{a..0} |tr'''\n' | grep -v 'oo'
